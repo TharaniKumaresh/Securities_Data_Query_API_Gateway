@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+psycopg2
+scikit-learn
+transformers
+torch
+docker
+kubernetes
